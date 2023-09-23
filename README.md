@@ -1,3 +1,3 @@
 # socialservices
 
-A new Flutter project.
+The flutter project of social app
