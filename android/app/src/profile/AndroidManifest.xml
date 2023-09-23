@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The INTERNET permission is required for development. Specifically,
+         the Flutter tool needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- Allow INTERNET permission -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- Add this line to allow the app to use the camera -->
+    <uses-permission android:name="android.permission.CAMERA" />
+</manifest>
